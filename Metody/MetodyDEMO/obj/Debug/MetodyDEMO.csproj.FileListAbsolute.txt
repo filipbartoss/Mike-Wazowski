@@ -1,0 +1,14 @@
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk1\Metody\MetodyDEMO\bin\Debug\MetodyDEMO.exe.config
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk1\Metody\MetodyDEMO\bin\Debug\MetodyDEMO.exe
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk1\Metody\MetodyDEMO\bin\Debug\MetodyDEMO.pdb
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk1\Metody\MetodyDEMO\obj\Debug\MetodyDEMO.csproj.AssemblyReference.cache
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk1\Metody\MetodyDEMO\obj\Debug\MetodyDEMO.csproj.CoreCompileInputs.cache
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk1\Metody\MetodyDEMO\obj\Debug\MetodyDEMO.exe
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk1\Metody\MetodyDEMO\obj\Debug\MetodyDEMO.pdb
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk2\Metody\MetodyDEMO\bin\Debug\MetodyDEMO.exe.config
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk2\Metody\MetodyDEMO\bin\Debug\MetodyDEMO.exe
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk2\Metody\MetodyDEMO\bin\Debug\MetodyDEMO.pdb
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk2\Metody\MetodyDEMO\obj\Debug\MetodyDEMO.csproj.AssemblyReference.cache
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk2\Metody\MetodyDEMO\obj\Debug\MetodyDEMO.csproj.CoreCompileInputs.cache
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk2\Metody\MetodyDEMO\obj\Debug\MetodyDEMO.exe
+L:\Kantori\Kudr\_ALG\2023-2024\1RSk2\Metody\MetodyDEMO\obj\Debug\MetodyDEMO.pdb

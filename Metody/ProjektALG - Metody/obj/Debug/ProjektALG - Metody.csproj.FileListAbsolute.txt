@@ -1,0 +1,7 @@
+Z:\ALG\Metody\ProjektALG - Metody\bin\Debug\ProjektALG - Metody.exe.config
+Z:\ALG\Metody\ProjektALG - Metody\bin\Debug\ProjektALG - Metody.exe
+Z:\ALG\Metody\ProjektALG - Metody\bin\Debug\ProjektALG - Metody.pdb
+Z:\ALG\Metody\ProjektALG - Metody\obj\Debug\ProjektALG - Metody.csproj.AssemblyReference.cache
+Z:\ALG\Metody\ProjektALG - Metody\obj\Debug\ProjektALG - Metody.csproj.CoreCompileInputs.cache
+Z:\ALG\Metody\ProjektALG - Metody\obj\Debug\ProjektALG - Metody.exe
+Z:\ALG\Metody\ProjektALG - Metody\obj\Debug\ProjektALG - Metody.pdb

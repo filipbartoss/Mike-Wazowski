@@ -1,0 +1,7 @@
+Z:\ALG\Metody\BMI\bin\Debug\BMI.exe.config
+Z:\ALG\Metody\BMI\bin\Debug\BMI.exe
+Z:\ALG\Metody\BMI\bin\Debug\BMI.pdb
+Z:\ALG\Metody\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+Z:\ALG\Metody\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+Z:\ALG\Metody\BMI\obj\Debug\BMI.exe
+Z:\ALG\Metody\BMI\obj\Debug\BMI.pdb

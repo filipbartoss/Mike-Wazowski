@@ -1,0 +1,2 @@
+Z:\ALG\Metody\MetodyUkol1\obj\Debug\GeometrickeObjekty.csproj.AssemblyReference.cache
+Z:\ALG\Metody\MetodyUkol1\obj\Debug\GeometrickeObjekty.csproj.CoreCompileInputs.cache
